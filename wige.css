@@ -36,7 +36,7 @@
       text-align: center;
     }
     body{
-      background-image:url("./Edwige.webp");
+      background-image:url("Edwige.webp");
       background-repeat: no-repeat;
       
     }
@@ -120,7 +120,7 @@
     }
     
     .D1{
-      background-image:url("./widege.png");
+      background-image:url("widege.webp");
       background-repeat: no-repeat;
       width: 600px;
       height: 495px;
@@ -128,7 +128,7 @@
 
     .D2{
       margin-top: 15px;
-      background-image:url("./wige.png");
+      background-image:url("wige.webp");
       width: 100%;
       height: 48.5%;
       background-repeat: no-repeat;
@@ -164,7 +164,7 @@
 
     .dr1{     
       height: 1000px;
-      background-image: url("./aimee.png");
+      background-image: url("aimee.webp");
       background-repeat: no-repeat;
     }
 
